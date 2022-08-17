@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/espoir/static/js/main.f7f019c7.js",
+    "index.html": "/espoir/index.html",
+    "main.f7f019c7.js.map": "/espoir/static/js/main.f7f019c7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f7f019c7.js"
+  ]
+}
